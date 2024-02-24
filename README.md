@@ -17,7 +17,7 @@ Once the system is installed, please SSH into it and then open a browser to acce
 > ![image](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_0b8bbe57073e566298ad57914118366f.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1708771262&Signature=GWlj4D9iktXOKN7Lzq7PRFqrIt8%3D)
 
 - Install `gplang` and its extensions.
-> Due to the outdated version 1.19 provided by OpenWrt, compilation is not feasible. You'll need to use the latest version 1.22, which can be obtained from `here`. Please download according to your architecture.
+> Due to the outdated version 1.19 provided by OpenWrt, compilation is not feasible. You'll need to use the latest version 1.22, which can be obtained from [here](https://github.com/ParrotXray/Building-OpenGFW-on-OpenWrt/releases/tag/v1.22.0). Please download according to your architecture.
 > - golang_1.22.0-1_x86_64.ipk
 > - golang-src_1.22.0-1_x86_64.ipk
 > - golang-doc_1.22.0-1_x86_64.ipk
