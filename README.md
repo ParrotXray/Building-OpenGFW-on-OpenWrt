@@ -4,7 +4,7 @@
 Prepare a device capable of running OpenWrt. Here, for demonstration purposes, we'll use Proxmox Virtual Environment (PVE) for deployment. Please search online for installation instructions.
 
 - Architecture: amd64
-- Firmware: iStort OS
+- Firmware: iStore OS
 
 ## setup.2
 Once the system is installed, please SSH into it and then open a browser to access the control panel `192.168.100.1`. The username is `root` and the password is `password`.
