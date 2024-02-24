@@ -11,7 +11,7 @@ Once the system is installed, please SSH into it and then open a browser to acce
 
 - Update the package repositories.
 > Location: System > Software
-> ![image](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_fd51a21b90bb9f71409ea4d50e6b2a80.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1708771021&Signature=ZFqmpo255kJi03AKxuFT%2BNDF3E4%3D)
+> ![image](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_186e9a9c6465f262b0b87fd7d2e8a4d2.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1708777595&Signature=%2FqcPPhurKN6Iqeg2FaAJmQZ4NDg%3D)
 
 - Update the package repositories.
 > ![image](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_0b8bbe57073e566298ad57914118366f.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1708771262&Signature=GWlj4D9iktXOKN7Lzq7PRFqrIt8%3D)
