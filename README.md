@@ -28,8 +28,7 @@ Once the system is installed, please SSH into it and then open a browser to acce
 > Install the required packages as shown in the image below.
 > ![image](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_6f47fd20fb3d13f04dbc287ad5e906a9.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1708771337&Signature=JFDszozRDyJ34ge8pyK2pgOekw4%3D)
 
-- Clone the OpenGFW source code.
-> Open an SSH session and clone the [OpenGFW source code](https://github.com/apernet/OpenGFW.git).
+- Open an SSH session and clone the [OpenGFW source code](https://github.com/apernet/OpenGFW.git).
 ```sh=
 git clone https://github.com/apernet/OpenGFW.git
 cd OpenGFW
