@@ -113,4 +113,4 @@ Let's demonstrate the results by creating a virtual machine running Windows 10 t
 ## END
 **Reference materials**
 - OpenGFW github → [link](https://github.com/apernet/OpenGFW)
-- PVE + OpenWrt → [link](https://api.wolfx.jp/websocket.html)
+- PVE + OpenWrt → [link](https://pve.sqlsec.com/3/2/)
